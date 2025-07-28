@@ -1,2 +1,2 @@
-# news_aggregator_and_sentiment_analyzer
+# sentiment_analyser
 project built using python libraries to  make a news application which prioritizes information according to the pubic responses and intrests.
